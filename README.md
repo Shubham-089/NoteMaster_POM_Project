@@ -46,7 +46,7 @@ This project is an end-to-end automation testing suite for the Note Master web a
 
 **Shubham Yetonde**  
 Manual & Automation Tester | Selenium | Java | TestNG | Postman  
-[LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/shubham-yetonde-s27/) • [GitHub]([(https://github.com/Shubham-089))
 
 ---
 
